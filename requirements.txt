@@ -1,14 +1,5 @@
-Click
-dlib
 face-recognition
-face-recognition-models
 Flask
 gunicorn
-itsdangerous
-Jinja2
-MarkupSafe
-numpy
-Pillow
-pkg-resources
 PyMySQL
-Werkzeug
+
